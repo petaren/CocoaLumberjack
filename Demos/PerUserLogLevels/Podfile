@@ -8,3 +8,4 @@ target :PULL_osx do
   pod 'CocoaLumberjack', :path => '../../'
 end
 
+use_frameworks!

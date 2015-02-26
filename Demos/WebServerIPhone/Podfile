@@ -8,3 +8,4 @@ target :WSIP_ios do
   pod 'CocoaLumberjack', :path => '../../'
 end
 
+use_frameworks!
