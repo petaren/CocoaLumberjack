@@ -3,7 +3,7 @@ xcodeproj 'BenchmarkIPhone'
 workspace '../../Demos'
 
 target :BIP_ios do
-  platform :ios, '7.0'
+  platform :ios, '8.0'
   link_with 'BenchmarkIPhone'
   pod 'CocoaLumberjack', :path => '../../../'
 end

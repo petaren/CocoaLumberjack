@@ -3,7 +3,7 @@ xcodeproj 'RegisteredLoggingTest'
 workspace '../../Demos'
 
 target :RLT_ios do
-  platform :ios, '7.0'
+  platform :ios, '8.0'
   link_with 'RegisteredLoggingTest'
   pod 'CocoaLumberjack', :path => '../../../'
 end

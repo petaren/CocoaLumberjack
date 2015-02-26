@@ -3,7 +3,7 @@ xcodeproj 'TextXcodeColors'
 workspace '../../Demos'
 
 target :TXC_ios do
-  platform :ios, '7.0'
+  platform :ios, '8.0'
   link_with 'TextXcodeColors'
   pod 'CocoaLumberjack', :path => '../../../'
 end

@@ -238,7 +238,7 @@
 				GCC_PREFIX_HEADER = UniversalApp_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "UniversalApp-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = UniversalApp;
 			};
 			name = Debug;
@@ -254,7 +254,7 @@
 				GCC_PREFIX_HEADER = UniversalApp_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "UniversalApp-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = UniversalApp;
 				VALIDATE_PRODUCT = YES;
 			};
